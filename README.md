@@ -48,6 +48,11 @@ This project aims to predict box office revenue based on various movie metadata 
 ## 📈 Key Insights
 
 
+---
+
+## 📁 Files
+
+[Jupyter Notebook File]('https://github.com/ziyadsaf/movie-success-prediction/blob/main/movie_prediction_project.ipynb')
 
 ---
 
